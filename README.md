@@ -1,1 +1,1 @@
-This is a sample how to deploy redshift clusters to AWS using Python
+My code on how to deploy Redshift clusters to AWS using Python and DDLs for tables.
