@@ -1,4 +1,4 @@
 Hello All!
 
-These are my personnal project I've worked on using Python.
+These are my personnal projects I've worked on using Python.
 
